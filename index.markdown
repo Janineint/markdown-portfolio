@@ -11,3 +11,4 @@ Beyond my academic and professional pursuits, I have a love for cooking, explori
 - Develop practical, user-focused applications with strong design principles
 - Expand my professional network and skills in data-driven decision-making
 
+ [Projects](projects.markdown) | [Contact](contact.markdown)
