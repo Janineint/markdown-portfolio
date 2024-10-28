@@ -13,3 +13,4 @@ A JavaScript project aimed at enhancing form validation skills, including DOM ma
 Designed an SQL database prototype for a new restaurant, emphasizing data fields for operational analysis, customer reviews, and market gaps, with an additional focus on supplier data management.
 
 
+[Home](index.markdown)  | [Contact](contact.markdown)
